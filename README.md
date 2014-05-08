@@ -6,7 +6,8 @@ This is the initial version of PaleOnion, a Tor Browser based on Palemoon for op
 
 - Once you have downloaded PaleOnion, unpack it to your desktop (or other folder. This instructional uses the folder Desktop, so keep that in mind)
 
--Use the following commands to start using PaleOnion:
+- Use the following commands to start using PaleOnion:
+
 $ cd Desktop
 $ cd PaleOnion
 $ ./start-PaleOnion
