@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="chrome://torlauncher/content/network-settings-wizard.xul">
+    <NC:persist RDF:resource="chrome://torlauncher/content/network-settings-wizard.xul#TorNetworkSettings"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://global/content/viewSource.xul#viewSource"
+                   screenX="724"
+                   screenY="24"
+                   width="640"
+                   height="480"
+                   sizemode="maximized" />
+  <RDF:Description RDF:about="chrome://torlauncher/content/progress.xul">
+    <NC:persist RDF:resource="chrome://torlauncher/content/progress.xul#TorProgress"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://global/content/viewSource.xul">
+    <NC:persist RDF:resource="chrome://global/content/viewSource.xul#viewSource"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://torlauncher/content/network-settings-wizard.xul#TorNetworkSettings"
+                   screenX="366"
+                   screenY="114" />
+  <RDF:Description RDF:about="chrome://torbutton/content/preferences.xul">
+    <NC:persist RDF:resource="chrome://torbutton/content/preferences.xul#torbutton-prefs"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://torlauncher/content/progress.xul#TorProgress"
+                   screenX="497"
+                   screenY="247" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
+                   sidebarcommand=""
+                   width=""
+                   src="" />
+  <RDF:Description RDF:about="chrome://noscript/content/noscriptOptions.xul">
+    <NC:persist RDF:resource="chrome://noscript/content/noscriptOptions.xul#noscriptOptions"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#nav-bar"
+                   currentset="unified-back-forward-button,torbutton-button,noscript-tbb,urlbar-container,reload-button,stop-button,search-container,webrtc-status-button,bookmarks-menu-button,downloads-button,home-button,window-controls,social-share-button,torbutton-context-menu,https-everywhere-button" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
+                   width="1000"
+                   height="689"
+                   sizemode="normal"
+                   screenX="364"
+                   screenY="24" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#nav-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-title"
+                   value="" />
+  <RDF:Description RDF:about="chrome://noscript/content/noscriptOptions.xul#noscriptOptions"
+                   screenX="368"
+                   screenY="138" />
+  <RDF:Description RDF:about="chrome://torbutton/content/preferences.xul#torbutton-prefs"
+                   screenX="416"
+                   screenY="148" />
+</RDF:RDF>

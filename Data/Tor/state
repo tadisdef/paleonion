@@ -1,0 +1,218 @@
+# Tor state file last generated on 2014-05-07 10:33:29 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard sd04 68070FCF151E1211533F41265C3469AEDA474E10 DirCache
+EntryGuardDownSince 2014-04-18 18:53:22 2014-04-18 18:53:22
+EntryGuardUnlistedSince 2014-04-26 16:34:12
+EntryGuardAddedBy 68070FCF151E1211533F41265C3469AEDA474E10 0.2.4.19 2014-04-09 07:29:26
+EntryGuardPathBias 19.000000 19.000000 19.000000 0.000000 0.000000 0.000000
+EntryGuardPathUseBias 3.000000 3.000000
+EntryGuard minisausage 0ED9643F9F25EE84708D78DC047161FA16542827 DirCache
+EntryGuardAddedBy 0ED9643F9F25EE84708D78DC047161FA16542827 0.2.4.19 2014-03-31 22:35:49
+EntryGuardPathBias 233.000000 229.000000 227.000000 2.000000 0.000000 4.000000
+EntryGuardPathUseBias 53.000000 53.000000
+EntryGuard asdasdd CA55E2BD10F2C52C2529739A723948AFE713941C DirCache
+EntryGuardAddedBy CA55E2BD10F2C52C2529739A723948AFE713941C 0.2.4.19 2014-04-21 13:02:17
+EntryGuardPathBias 242.000000 235.000000 234.000000 0.000000 1.000000 3.000000
+EntryGuardPathUseBias 47.000000 46.000000
+EntryGuard thevillage1 2009F87590E626C98E1A5C8D08C23366C58B7951 DirCache
+EntryGuardUnlistedSince 2014-05-07 14:25:44
+EntryGuardAddedBy 2009F87590E626C98E1A5C8D08C23366C58B7951 0.2.4.19 2014-04-01 20:38:33
+EntryGuardPathBias 199.000000 195.000000 195.000000 0.000000 0.000000 2.000000
+EntryGuardPathUseBias 40.000000 40.000000
+EntryGuard toxiroxiUA DDD7871C1B7FA32CB55061E08869A236E61BDDF8 DirCache
+EntryGuardUnlistedSince 2014-05-07 14:25:44
+EntryGuardAddedBy DDD7871C1B7FA32CB55061E08869A236E61BDDF8 0.2.4.19 2014-04-19 06:07:26
+EntryGuardPathBias 6.000000 6.000000 6.000000 0.000000 0.000000 0.000000
+EntryGuardPathUseBias 2.000000 2.000000
+TorVersion Tor 0.2.4.19 (git-e719d05fd296a9dd)
+LastWritten 2014-05-07 14:33:29
+TotalBuildTimes 439
+CircuitBuildAbandonedCount 4
+CircuitBuildTimeBin 575 4
+CircuitBuildTimeBin 625 4
+CircuitBuildTimeBin 675 5
+CircuitBuildTimeBin 725 7
+CircuitBuildTimeBin 775 8
+CircuitBuildTimeBin 825 5
+CircuitBuildTimeBin 875 7
+CircuitBuildTimeBin 925 9
+CircuitBuildTimeBin 975 6
+CircuitBuildTimeBin 1025 7
+CircuitBuildTimeBin 1075 3
+CircuitBuildTimeBin 1125 8
+CircuitBuildTimeBin 1175 7
+CircuitBuildTimeBin 1225 3
+CircuitBuildTimeBin 1275 1
+CircuitBuildTimeBin 1325 3
+CircuitBuildTimeBin 1375 7
+CircuitBuildTimeBin 1425 5
+CircuitBuildTimeBin 1475 2
+CircuitBuildTimeBin 1525 3
+CircuitBuildTimeBin 1575 4
+CircuitBuildTimeBin 1625 2
+CircuitBuildTimeBin 1675 2
+CircuitBuildTimeBin 1725 2
+CircuitBuildTimeBin 1775 1
+CircuitBuildTimeBin 1825 2
+CircuitBuildTimeBin 1875 2
+CircuitBuildTimeBin 1925 2
+CircuitBuildTimeBin 1975 5
+CircuitBuildTimeBin 2025 1
+CircuitBuildTimeBin 2075 3
+CircuitBuildTimeBin 2125 2
+CircuitBuildTimeBin 2175 4
+CircuitBuildTimeBin 2225 1
+CircuitBuildTimeBin 2275 2
+CircuitBuildTimeBin 2325 3
+CircuitBuildTimeBin 2375 2
+CircuitBuildTimeBin 2425 1
+CircuitBuildTimeBin 2475 1
+CircuitBuildTimeBin 2525 2
+CircuitBuildTimeBin 2575 1
+CircuitBuildTimeBin 2675 2
+CircuitBuildTimeBin 2775 1
+CircuitBuildTimeBin 2875 4
+CircuitBuildTimeBin 2925 1
+CircuitBuildTimeBin 2975 2
+CircuitBuildTimeBin 3025 1
+CircuitBuildTimeBin 3075 1
+CircuitBuildTimeBin 3125 1
+CircuitBuildTimeBin 3175 2
+CircuitBuildTimeBin 3225 5
+CircuitBuildTimeBin 3275 2
+CircuitBuildTimeBin 3325 1
+CircuitBuildTimeBin 3375 2
+CircuitBuildTimeBin 3575 2
+CircuitBuildTimeBin 3625 4
+CircuitBuildTimeBin 3675 3
+CircuitBuildTimeBin 3725 1
+CircuitBuildTimeBin 3775 4
+CircuitBuildTimeBin 3825 4
+CircuitBuildTimeBin 3875 3
+CircuitBuildTimeBin 3925 1
+CircuitBuildTimeBin 3975 1
+CircuitBuildTimeBin 4025 2
+CircuitBuildTimeBin 4075 2
+CircuitBuildTimeBin 4175 1
+CircuitBuildTimeBin 4275 2
+CircuitBuildTimeBin 4325 2
+CircuitBuildTimeBin 4425 2
+CircuitBuildTimeBin 4475 4
+CircuitBuildTimeBin 4525 5
+CircuitBuildTimeBin 4575 4
+CircuitBuildTimeBin 4625 4
+CircuitBuildTimeBin 4725 3
+CircuitBuildTimeBin 4775 2
+CircuitBuildTimeBin 4825 1
+CircuitBuildTimeBin 4875 2
+CircuitBuildTimeBin 4925 3
+CircuitBuildTimeBin 4975 1
+CircuitBuildTimeBin 5025 2
+CircuitBuildTimeBin 5075 2
+CircuitBuildTimeBin 5125 6
+CircuitBuildTimeBin 5175 5
+CircuitBuildTimeBin 5225 2
+CircuitBuildTimeBin 5275 1
+CircuitBuildTimeBin 5325 3
+CircuitBuildTimeBin 5375 3
+CircuitBuildTimeBin 5425 4
+CircuitBuildTimeBin 5525 4
+CircuitBuildTimeBin 5575 2
+CircuitBuildTimeBin 5625 3
+CircuitBuildTimeBin 5675 2
+CircuitBuildTimeBin 5725 2
+CircuitBuildTimeBin 5775 4
+CircuitBuildTimeBin 5825 1
+CircuitBuildTimeBin 5875 3
+CircuitBuildTimeBin 5925 3
+CircuitBuildTimeBin 5975 5
+CircuitBuildTimeBin 6025 1
+CircuitBuildTimeBin 6125 3
+CircuitBuildTimeBin 6175 1
+CircuitBuildTimeBin 6225 2
+CircuitBuildTimeBin 6325 1
+CircuitBuildTimeBin 6425 3
+CircuitBuildTimeBin 6475 3
+CircuitBuildTimeBin 6575 2
+CircuitBuildTimeBin 6675 2
+CircuitBuildTimeBin 6725 3
+CircuitBuildTimeBin 6775 3
+CircuitBuildTimeBin 6825 3
+CircuitBuildTimeBin 6875 3
+CircuitBuildTimeBin 6975 4
+CircuitBuildTimeBin 7025 2
+CircuitBuildTimeBin 7125 3
+CircuitBuildTimeBin 7175 2
+CircuitBuildTimeBin 7275 1
+CircuitBuildTimeBin 7325 3
+CircuitBuildTimeBin 7375 4
+CircuitBuildTimeBin 7475 3
+CircuitBuildTimeBin 7575 1
+CircuitBuildTimeBin 7625 1
+CircuitBuildTimeBin 7675 2
+CircuitBuildTimeBin 7775 1
+CircuitBuildTimeBin 7825 3
+CircuitBuildTimeBin 7925 1
+CircuitBuildTimeBin 7975 3
+CircuitBuildTimeBin 8075 2
+CircuitBuildTimeBin 8125 4
+CircuitBuildTimeBin 8175 2
+CircuitBuildTimeBin 8225 1
+CircuitBuildTimeBin 8275 4
+CircuitBuildTimeBin 8375 2
+CircuitBuildTimeBin 8425 1
+CircuitBuildTimeBin 8475 1
+CircuitBuildTimeBin 8625 1
+CircuitBuildTimeBin 8675 1
+CircuitBuildTimeBin 8825 1
+CircuitBuildTimeBin 8975 1
+CircuitBuildTimeBin 9075 4
+CircuitBuildTimeBin 9475 1
+CircuitBuildTimeBin 9575 1
+CircuitBuildTimeBin 9625 1
+CircuitBuildTimeBin 9775 1
+CircuitBuildTimeBin 9875 1
+CircuitBuildTimeBin 10025 1
+CircuitBuildTimeBin 10125 1
+CircuitBuildTimeBin 10475 1
+CircuitBuildTimeBin 10525 1
+CircuitBuildTimeBin 10575 2
+CircuitBuildTimeBin 10775 1
+CircuitBuildTimeBin 10825 1
+CircuitBuildTimeBin 10975 2
+CircuitBuildTimeBin 11225 1
+CircuitBuildTimeBin 11525 1
+CircuitBuildTimeBin 11725 1
+CircuitBuildTimeBin 11825 1
+CircuitBuildTimeBin 11875 1
+CircuitBuildTimeBin 12125 2
+CircuitBuildTimeBin 12225 2
+CircuitBuildTimeBin 12425 1
+CircuitBuildTimeBin 12475 1
+CircuitBuildTimeBin 12775 1
+CircuitBuildTimeBin 13075 1
+CircuitBuildTimeBin 13225 1
+CircuitBuildTimeBin 13275 1
+CircuitBuildTimeBin 13825 1
+CircuitBuildTimeBin 14075 1
+CircuitBuildTimeBin 14275 2
+CircuitBuildTimeBin 14375 1
+CircuitBuildTimeBin 14475 1
+CircuitBuildTimeBin 14575 1
+CircuitBuildTimeBin 14825 1
+CircuitBuildTimeBin 15025 1
+CircuitBuildTimeBin 16275 1
+CircuitBuildTimeBin 16375 1
+CircuitBuildTimeBin 16575 1
+CircuitBuildTimeBin 17075 1
+CircuitBuildTimeBin 18275 1
+CircuitBuildTimeBin 18375 1
+CircuitBuildTimeBin 19675 1
+CircuitBuildTimeBin 20475 1
+CircuitBuildTimeBin 21725 1
+CircuitBuildTimeBin 24075 1
+CircuitBuildTimeBin 25975 1
+CircuitBuildTimeBin 40825 1
+CircuitBuildTimeBin 43375 1
