@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PaleOnion for Linux, BSD, and Unix
 
 This is the initial version of PaleOnion, a Tor Browser based on Palemoon for optimied speed and better usability. Please feel free to contribute to making it better. Most of all remember, this is an initial version and WILL have problems.
@@ -54,3 +55,9 @@ THE SOFTWARE.
 
 Precatory Terms:
 As precatory terms, the following terms are are only expressed as a wish and do not create any obligation or duty, in order to promote free and open use. It is wished that this software not be used for any reason that violates human rights, as set forth in the Universal Delcaration of Human Rights (http://www.un.org/en/documents/udhr/index.shtml). It is wished that this software not be used for any snooping, spying, surveillence, exploitation, manipulation, or other actions that violate the privacy or security of civilians.
+=======
+paleonion
+=========
+
+A Tor browser based on Palemoon
+>>>>>>> dd0d97ce490383364ce5caea500bdee49a140f79
