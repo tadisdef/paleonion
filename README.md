@@ -8,11 +8,9 @@ This is the initial version of PaleOnion, a Tor Browser based on Palemoon for op
 
 - Use the following commands to start using PaleOnion:
 
-$ cd Desktop
-
-$ cd PaleOnion
-
-$ ./start-PaleOnion
+$ cd Desktop 
+$ cd PaleOnion 
+$ ./start-PaleOnion 
 
 - Click through everything to be sure tor is setup (go to check.torproject.org to be sure)
 
@@ -29,7 +27,7 @@ $ ./start-PaleOnion
 
 - Feel free to check out another Tor service I created called UnBlock TorBlock. This uses third-party non-Tor proxies to allow Tor users to get around the TorBlock utilities some sites use to block Tor users. It is free at www.tadisdef.ml
 
-- Special thanks to
+- Special thanks to to Jason and Erik at The Elephant Rooms, Lexington, Ky (www.terstudios.com facebook: theelephantrooms) and Ryan Camenisch (www.ryancamensich.com twitter: @ryancamenisch) for their logo designs and support.
 
 ## License
 
