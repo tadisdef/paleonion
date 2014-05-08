@@ -9,7 +9,9 @@ This is the initial version of PaleOnion, a Tor Browser based on Palemoon for op
 - Use the following commands to start using PaleOnion:
 
 $ cd Desktop
+
 $ cd PaleOnion
+
 $ ./start-PaleOnion
 
 - Click through everything to be sure tor is setup (go to check.torproject.org to be sure)
@@ -17,7 +19,7 @@ $ ./start-PaleOnion
 - You may need to change the network to SOCKS 127.0.0.1 (port 9150) this can be done through the browser:
 "edit > preferences > advanced > network > settings > SOCKS Host 127.0.0.1 Port 9150 SOCKSv5"
 
--You should now be set up to use the browser with PaleOnion
+- You should now be set up to use the browser with PaleOnion
 
 ## Notes
 
