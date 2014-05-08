@@ -4,16 +4,16 @@ This is the initial version of PaleOnion, a Tor Browser based on Palemoon for op
 
 ## Using PaleOnion
 
--Once you have downloaded PaleOnion, unpack it to your desktop (or other folder. This instructional uses the folder Desktop, so keep that in mind)
+- Once you have downloaded PaleOnion, unpack it to your desktop (or other folder. This instructional uses the folder Desktop, so keep that in mind)
 
 -Use the following commands to start using PaleOnion:
 $ cd Desktop
 $ cd PaleOnion
 $ ./start-PaleOnion
 
--Click through everything to be sure tor is setup (go to check.torproject.org to be sure)
+- Click through everything to be sure tor is setup (go to check.torproject.org to be sure)
 
--You may need to change the network to SOCKS 127.0.0.1 (port 9150) this can be done through the browser:
+- You may need to change the network to SOCKS 127.0.0.1 (port 9150) this can be done through the browser:
 "edit > preferences > advanced > network > settings > SOCKS Host 127.0.0.1 Port 9150 SOCKSv5"
 
 -You should now be set up to use the browser with PaleOnion
@@ -22,11 +22,11 @@ $ ./start-PaleOnion
 
 - I have only tested this with Ubuntu, then downloaded it and tested it on Lubuntu, so if their is problems it is most likely due to the fact the palemoon wasn't setup through pminstaller.sh
 
--If you do notice anything glitchy/needs to be revised let me know on github (and sourceforge if that is set up)
+- If you do notice anything glitchy/needs to be revised let me know on github (and sourceforge if that is set up)
 
--Feel free to check out another Tor service I created called UnBlock TorBlock. This uses third-party non-Tor proxies to allow Tor users to get around the TorBlock utilities some sites use to block Tor users. It is free at www.tadisdef.ml
+- Feel free to check out another Tor service I created called UnBlock TorBlock. This uses third-party non-Tor proxies to allow Tor users to get around the TorBlock utilities some sites use to block Tor users. It is free at www.tadisdef.ml
 
--Special thanks to
+- Special thanks to
 
 ## License
 
