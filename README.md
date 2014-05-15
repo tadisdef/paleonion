@@ -25,7 +25,7 @@ $ ./start-PaleOnion
 
 - If you do notice anything glitchy/needs to be revised let me know on github (and sourceforge if that is set up)
 
-- Feel free to check out another Tor service I created called UnBlock TorBlock. This uses third-party non-Tor proxies to allow Tor users to get around the TorBlock utilities some sites use to block Tor users. It is free at www.tadisdef.ml
+- Feel free to check out another Tor service I created called UnBlock TorBlock. This uses third-party non-Tor proxies to allow Tor users to get around the TorBlock utilities some sites use to block Tor users. It is free at www.tadisdef.ml or the tor relay "tadisdef00paleonion"
 
 - Special thanks to to Jason and Erik at The Elephant Rooms, Lexington, Ky (www.terstudios.com facebook: theelephantrooms) and Ryan Camenisch (www.ryancamensich.com twitter: @ryancamenisch) for their logo designs and support.
 
